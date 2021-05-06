@@ -5,4 +5,6 @@ This repository showcases a collecion of projects related to Data Analytics. The
 ---
 
 Contents
-- Cyclistic: Finding customer's behaviour of bicycle rental rides on the platform, based on member status.
+- [Cyclistic](https://github.com/victortoh95/Data-Analytics-Projects/blob/f3ea1314661c3652b85d97efcaa1ab243cde1528/Google%20Data%20Analytics%20Certificate%20-%20Case%20Study%201.ipynb): Finding customer's behaviour of bicycle rental rides on the platform, based on member status.
+
+- [Crypto Transactions]: Deeper insights of trading behaviour on cryptocurrency exchanges: Coinhako and Binance.
